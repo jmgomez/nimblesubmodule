@@ -1,0 +1,3 @@
+[submodule "sat"]
+	path = sat
+	url = https://github.com/nim-lang/sat
