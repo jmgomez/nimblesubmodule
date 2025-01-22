@@ -5,7 +5,6 @@ author        = "jmgomez"
 description   = "A new awesome nimble package"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["nimblesubmodule"]
 
 
 # Dependencies

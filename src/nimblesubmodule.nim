@@ -4,4 +4,4 @@ import ../sat/src/sat/satvars
 
 let dontCare = DontCare
 when isMainModule:
-  echo("Hello, World!")
+  echo("Hello, World!" & $dontCare)
